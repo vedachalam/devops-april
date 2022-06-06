@@ -1,4 +1,4 @@
-s this is the first line is created
-second line also created
+This is the first line is created
+Second line also created
 
-third line is added
+Third line is added
