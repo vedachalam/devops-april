@@ -1,4 +1,11 @@
-s this is the first line is created
-second line also created
+This is the first line is created
+Second line also created
 
+<<<<<<< HEAD
 third line is added
+
+
+these many line are create wastely
+=======
+Third line is added
+>>>>>>> parent of a32b09b (Revert "reverted the file")
